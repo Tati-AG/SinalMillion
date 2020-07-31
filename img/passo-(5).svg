@@ -1,0 +1,43 @@
+<svg id="Componente_18_1" data-name="Componente 18 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="215" height="215" viewBox="0 0 215 215">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.15;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        opacity: 0.4;
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: gray;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="0.5" x2="1.008" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Componente_8_1" data-name="Componente 8 – 1" transform="translate(8.86 6.234)">
+    <ellipse id="Elipse_4" data-name="Elipse 4" class="cls-1" cx="78.433" cy="78.433" rx="78.433" ry="78.433" transform="translate(19.629 19.629)"/>
+    <ellipse id="Elipse_5" data-name="Elipse 5" class="cls-2" cx="74.698" cy="74.698" rx="74.698" ry="74.698" transform="translate(0 58.777) rotate(-23.168)"/>
+    <path id="Caminho_19" data-name="Caminho 19" class="cls-3" d="M737.26,289.8a78.409,78.409,0,0,1-22.841,55.592,79.124,79.124,0,1,1,0-111.184A78.424,78.424,0,0,1,737.26,289.8Zm0,0a77.767,77.767,0,0,0-133.112-54.677A77.787,77.787,0,0,0,714.154,345.127,78.244,78.244,0,0,0,737.26,289.8Z" transform="translate(-560.765 -191.736)"/>
+    <path id="Caminho_22" data-name="Caminho 22" class="cls-4" d="M651.051,308.5,626.816,294.24H599.725V244.2h75.948V294.24H651.051Zm-48.744-16.842h25.214l20.947,12.322V291.656h24.621V246.788H602.307Z" transform="translate(-547.249 -169.784)"/>
+    <path id="Caminho_23" data-name="Caminho 23" class="cls-4" d="M685.712,285.264H673.43v-2.584h9.7V237.811H612.345v7.376h-2.584v-9.961h75.95Z" transform="translate(-540.669 -175.668)"/>
+    <path id="Caminho_24" data-name="Caminho 24" class="cls-4" d="M615.959,269.015a6.2,6.2,0,1,1,6.2-6.2A6.2,6.2,0,0,1,615.959,269.015Zm0-9.809a3.613,3.613,0,1,0,3.612,3.612A3.618,3.618,0,0,0,615.959,259.206Z" transform="translate(-540.669 -161.643)"/>
+    <path id="Caminho_25" data-name="Caminho 25" class="cls-4" d="M625.117,269.015a6.2,6.2,0,1,1,6.2-6.2A6.2,6.2,0,0,1,625.117,269.015Zm0-9.809a3.613,3.613,0,1,0,3.614,3.612A3.618,3.618,0,0,0,625.117,259.206Z" transform="translate(-534.666 -161.643)"/>
+    <path id="Caminho_26" data-name="Caminho 26" class="cls-4" d="M634.274,269.015a6.2,6.2,0,1,1,6.2-6.2A6.2,6.2,0,0,1,634.274,269.015Zm0-9.809a3.613,3.613,0,1,0,3.614,3.612A3.617,3.617,0,0,0,634.274,259.206Z" transform="translate(-528.663 -161.643)"/>
+  </g>
+  <rect id="Retângulo_123" data-name="Retângulo 123" class="cls-5" width="215" height="215"/>
+</svg>

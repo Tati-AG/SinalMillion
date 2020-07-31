@@ -1,0 +1,495 @@
+button:focus, a:hover {
+  text-decoration: none;
+  outline: none;
+}
+#header {
+  min-height: 80px;
+}
+#header .navbar-brand img {
+  width: 215px;
+  margin-right: 40px;
+}
+#header li a {
+  font: 22px/30px 'Segoe UI';
+  padding-left: 2rem;
+  color: black;
+}
+#header li a:hover {
+  color: #0DA125;
+}
+#header .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(13, 161, 37, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+#menu_toggle ul {
+  border-top: 1px solid #0DA125;
+  padding-top: 15px;
+  margin-top: 15px;
+}
+nav#header li {
+  margin: 10px auto;
+}
+#footer {
+  background-color: #FEFEFE;
+}
+#footer p {
+  font: 20px/18px 'Segoe UI';
+  margin: 18px 0;
+  text-align: center;
+}
+.container-home * {
+  justify-content: center;
+  align-self: center;
+  text-align: center;
+  color: white;
+}
+#home_pg.container-fluid {
+  background-color: black;
+}
+a.cta, #planos .plano, #steps h6 {
+  box-shadow: 0 3px 6px #00000029;
+}
+a.btn.cta {
+  background-color: #DD2C28;
+  font: 700 24px/32px 'Segoe UI';
+  text-transform: uppercase;
+  border-radius: 5px;
+  padding: 16px 42px;
+  width: 100%;
+  max-width: 340px;
+  color: inherit;
+  border: solid 2px transparent;
+}
+a.btn.cta:hover {
+  background-color: transparent;
+  border-color: white;
+}
+#renda {
+  max-width: 1220px;
+  padding: 40px 0 72px;
+  margin: auto;
+}
+#renda h1 {
+  font: bold 64px/85px 'Segoe UI';
+  text-transform: uppercase;
+}
+#renda h3 {
+  font: bold 32px/43px 'Segoe UI';
+  text-transform: uppercase;
+}
+#renda mark, #aprender mark {
+  color: #0DA125;
+  background-color: transparent;
+  padding: 0;
+}
+#renda img {
+  margin: 60px 0 72px;
+  width: 100%;
+  max-width: 775px;
+}
+#perguntas {
+  background: linear-gradient(to top right ,transparent 49.5%, #0DA125 50%);
+  min-height: 72vh;
+}
+#perguntas .col {
+  margin: 48px 24px 20px;
+  max-width: calc(50% - 48px);
+  padding: 40px 30px;
+  background-color: white;
+}
+#perguntas h4 {
+  color: #0DA125;
+  font: bold 28px/37px 'Segoe UI';
+  text-align: left;
+  padding-left: 25px;
+}
+#perguntas h4::before {
+  content: "⎯";
+  color: #0DA125;
+  font: bold 28px/37px 'Segoe UI';
+  margin: 0 15px 0 -30px;
+}
+#perguntas p {
+  color: black;
+  font: 700 22px/30px 'Segoe UI';
+  padding-left: 25px;
+  text-align: left;
+}
+#garantias {
+  padding: 100px 0;
+  background: url("/SinalMillion/img/triangulo-left.png") center left contain no-repeat, url(/SinalMillion/img/triangulo-right.png) center right no-repeat;
+}
+#garantias .col {
+  max-width: 1360px;
+}
+#garantias .col.img-col {
+  max-width: fit-content;
+  padding: 0;
+}
+#garantias img:not(.selo) {
+  margin: 40px 0 96px;
+  max-width: 680px;
+  width: 49vw;
+}
+#garantias img.selo {
+  position: absolute;
+  width: 170px;
+  left: calc(50% + 420px);
+  bottom: 90px;
+}
+#garantias h4 {
+  font: bold 28px/37px 'Segoe UI';
+  max-width: 1280px;
+  margin: auto;
+}
+#garantias h5 {
+  font: bold 24px/32px 'Segoe UI';
+  max-width: 775px;
+  margin: 0 auto 70px;
+}
+#q_somos {
+  position: relative;
+  margin: 20px -15px 120px;
+}
+#q_somos .txt-col {
+  max-width: 840px;
+}
+#q_somos h2 {
+  background-color: #0DA125;
+  padding: 24px 15px;
+  margin: 60px -15px 24px;
+  font: bold 48px/64px 'Segoe UI';
+  color: #F2F2F2;
+}
+#q_somos .img-col {
+  max-width: calc(20vw + 100px);
+  max-height: calc(20vw + 100px);
+  width: 90vw;
+  height: 90vw;
+  padding: 0;
+  border-radius: 50%;  
+  background-color: white;
+  position: absolute;
+  right: calc(64% + 80px);
+  top: 0;
+}
+#q_somos img {
+  object-fit: cover;
+  width: calc(100% - 6px);
+  padding-top: 3px;
+}
+#q_somos p {
+  font: 700 20px/32px 'Segoe UI';
+  text-align: left;
+  max-width: 840px;
+  margin-left: calc(25% - 180px);
+  color: #F2F2F2;
+}
+#q_somos .col:last-child {
+  margin-bottom: 20px;
+  max-width: 370px;
+  margin-right: calc(7.3vw - 70px);
+  margin-left: -15px;
+}
+#aprender h3 {
+  font: bold 32px/40px 'Segoe UI';
+}
+#aprender h4 {
+  font: bold 28px/40px 'Segoe UI';
+}
+#steps {
+  background: url('/SinalMillion/img/retangulo.png') top center repeat-y;
+  max-width: 1360px;
+  margin: auto;
+}
+#steps .col {
+  padding: 0;
+  max-width: 220px;
+  background: linear-gradient(135deg , white 86%, black 14%);
+  height: 465px;
+  margin: 55px 25px 0;
+}
+#steps h6 {
+  padding: 16px 40px 16px 16px;
+  background-color: #DD2C28;
+  width: fit-content;
+  font: 600 30px/30px 'Segoe UI';
+  text-transform: uppercase;
+  border-radius: 0 40px 40px 0;
+  margin-top: 30px;
+}
+#steps p {
+  color: #808080;
+  max-width: 150px;
+  font: 600 18px/20px 'Segoe UI';
+  margin: 25px auto -5px;
+  height: 65px
+}
+#aprender mark.light-gray {
+  color: #F2F2F2;
+}
+#beneficios {
+  padding: 75px 0 40px;
+  max-width: 1360px;
+  margin: auto;
+}
+#beneficios .txt-col {
+  max-width: 900px;
+  box-shadow: inset 48px 48px #0DA125;
+  padding: 0 0 30px 72px;
+  margin-top: 40px;
+}
+#beneficios h2 {
+  text-align: left;
+  font: bold 60px/80px 'Segoe UI';
+}
+#beneficios p {
+  max-width: 715px;
+  font: 600 22px/30px 'Segoe UI';
+  text-align: left;
+}
+#beneficios .img-col img {
+  max-width: 360px;
+  width: 100%;
+  padding-left: 25px;
+  margin: 40px 0;
+}
+#planos h2 {
+  font: bold 40px/53px 'Segoe UI';
+  margin-bottom: 40px;
+}
+#planos .plano {
+  max-width: 400px;
+  background-color: white;
+  margin-top: 30px;
+  padding: 0;
+}
+#planos .p-black {
+  margin: 0 0 30px -20px;
+  z-index: 1;
+}
+#planos .p-vip {
+  margin-left: -20px;
+}
+#planos ul {
+  margin-left: 30px;
+}
+#planos li.true {
+  list-style-image: url(/SinalMillion/img/icon-check.svg);
+}
+#planos li.false {
+  list-style-image: url(/SinalMillion/img/icon-x.svg);
+}
+#planos li {
+  font: 700 20px/27px 'Segoe UI';
+  padding: 7px 0;
+  text-align: left;
+  color: black;
+}
+#planos h3 {
+  margin: 32px auto 25px;
+  font: bold 32px/43px 'Segoe UI';
+}
+#planos .promocao {
+  background-color: black;
+  width: 240px;
+  border-radius: 20px 20px 0 0;
+  font: bold 24px/32px 'Segoe UI';
+  padding: 10px 0;
+  margin: auto;
+}
+#planos .preco {
+  text-align: left;
+  color: #FE3A3B;
+  font: bold 24px/32px 'Segoe UI';
+  text-decoration: line-through;
+  padding: 6px 0 6px 50px;
+  clear: both;
+}
+#planos a {
+  padding: 0;
+  border-radius: 0;
+  width: 100%;
+  margin: 0;
+}
+#planos a h6 {
+  font: bold 32px/43px 'Segoe UI';
+  padding: 20px;
+  margin: 0;
+}
+#planos .p-free h3 {
+  color: #9F9EA3;
+}
+#planos .p-free a {
+  background-color: #9F9EA3;
+}
+#planos .p-black h3 {
+  color: #1FDF05;
+}
+#planos .p-black a {
+  background-color: #1FDF05;
+}
+#planos .p-vip h3 {
+  color: #FDA939;
+}
+#planos .p-vip a {
+  background-color: #FDA939;
+}
+#disclaimer h5 {
+  font: bold 24px/32px 'Segoe UI';
+  text-transform: uppercase;
+}
+#disclaimer p {
+  max-width: 1050px;
+  font: 16px/24px 'Segoe UI';
+  margin: 0 auto 10px;
+}
+#disclaimer {
+  margin: 56px 0 24px
+}
+@media only screen and (min-width: 1360px) {
+  #perguntas {
+    height: 500px;
+    min-height: unset;
+  }
+  #perguntas.row .col {
+    max-width: 640px;
+  }
+  #q_somos .col.img-col {
+    max-width: 370px;
+    max-height: 370px;
+    right: calc(50% + 275px);
+  }
+  #q_somos .col:last-child {
+    margin-right: 50px;
+  }
+  #q_somos p {
+    margin-left: 30px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  #garantias img.selo {
+    left: calc(50% + 200px);
+    bottom: -40px;
+  }
+  #header .navbar-brand img {
+    margin-right: 2rem;
+  }
+  nav#header li a {
+    padding-left: 1.8rem;
+  }
+  nav#header li:first-child a {
+    padding-left: 0;
+  }
+  #header ul.nav {
+    margin: 0 -15px;
+  }
+}
+@media only screen and (max-width: 990px) {
+  #planos .plano {
+    margin: 20px auto;
+    max-width: 90%;
+  }
+  #planos .preco {
+    text-align: center;
+    padding: 15px 0 0;
+  }
+  ul.multi-column li:nth-child(odd) {
+    float: left;
+  }
+  ul.multi-column li {
+    float: right;
+    width: 50%;
+  }
+  #q_somos .img-col {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    max-width: 32vw;
+    max-height: 32vw;
+  }
+  #q_somos  p {
+    margin: 20px 0 0 10px;
+  }
+  #q_somos.row .col:last-child {
+    margin: 30px auto 0;
+  }
+  nav#header .navbar-brand img {
+    margin-right: 0;
+  }
+  nav#header li a {
+    padding-left: 0;
+  }
+  nav#header ul {
+    width: 120%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  #q_somos .img-col {
+    max-width: 370px;
+    max-height: 370px;
+  }
+  #q_somos p {
+    text-align: center;
+  }
+  #planos ul.multi-column li {
+    float: none;
+    width: unset;
+  }
+  #planos .plano {
+    max-width: 400px;
+  }
+  #garantias .col img:not(.selo) {
+    max-width: 650px;
+    width: 100%;
+    margin: 0;
+  }
+  #perguntas .col {
+    max-width: 90%;
+  }
+  .w-100 {
+    height: 50px;
+  }
+  #garantias img.selo {
+    left: unset;
+    right: 10px;
+    bottom: 105%;
+    width: 140px;
+  }
+  nav#header ul li a {
+    padding-left: 0;
+  }
+}
+@media only screen and (max-width: 400px) {
+  #renda .col {
+    padding: 0;
+  }
+  #renda h1 {
+    font-size: 48px;
+    line-height: 58px;
+  }
+  #garantias img.selo {
+    position: static;
+    width: 95%;
+    margin-bottom: 50px;
+  }
+  #q_somos .img-col {
+    width: 95vw;
+    height: 100vw;
+  }
+  #beneficios h2 {
+    font-size: 50px;
+    line-height: 60px;
+    margin-left: -24px;
+  }
+  #beneficios .txt-col {
+    padding: 0 0 30px 35px;
+    box-shadow: inset 30px 30px #0DA125;;
+  }
+  #planos ul {
+    margin-left: 0;
+    padding-right: 15px;
+  }
+  #planos .plano {
+    max-width: 95%;
+  }
+}

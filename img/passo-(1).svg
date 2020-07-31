@@ -1,0 +1,57 @@
+<svg id="Componente_14_1" data-name="Componente 14 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="215" height="215" viewBox="0 0 215 215">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.15;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        opacity: 0.4;
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: gray;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="0.5" x2="1.008" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Componente_4_1" data-name="Componente 4 – 1" transform="translate(7.2 6)">
+    <ellipse id="Elipse_1" data-name="Elipse 1" class="cls-1" cx="78.433" cy="78.433" rx="78.433" ry="78.433" transform="translate(19.63 19.629)"/>
+    <ellipse id="Elipse_2" data-name="Elipse 2" class="cls-2" cx="74.698" cy="74.698" rx="74.698" ry="74.698" transform="translate(0 58.777) rotate(-23.168)"/>
+    <path id="Caminho_6" data-name="Caminho 6" class="cls-3" d="M245.049,289.8a78.408,78.408,0,0,1-22.841,55.592,79.124,79.124,0,1,1,0-111.184A78.423,78.423,0,0,1,245.049,289.8Zm0,0a77.767,77.767,0,0,0-133.112-54.677A77.787,77.787,0,0,0,221.943,345.127,78.243,78.243,0,0,0,245.049,289.8Z" transform="translate(-68.554 -191.736)"/>
+    <rect id="Retângulo_8" data-name="Retângulo 8" class="cls-4" width="2.584" height="19.228" transform="matrix(0.607, -0.795, 0.795, 0.607, 119.111, 122.317)"/>
+    <rect id="Retângulo_9" data-name="Retângulo 9" class="cls-4" width="19.228" height="2.584" transform="matrix(0.795, -0.607, 0.607, 0.795, 60.31, 131.935)"/>
+    <rect id="Retângulo_10" data-name="Retângulo 10" class="cls-4" width="2.584" height="19.159" transform="matrix(0.052, -0.999, 0.999, 0.052, 48, 94.729)"/>
+    <rect id="Retângulo_11" data-name="Retângulo 11" class="cls-4" width="19.159" height="2.584" transform="matrix(0.999, -0.052, 0.052, 0.999, 129.003, 93.142)"/>
+    <rect id="Retângulo_12" data-name="Retângulo 12" class="cls-4" width="19.228" height="2.585" transform="translate(124.608 78.269) rotate(-25.846)"/>
+    <rect id="Retângulo_13" data-name="Retângulo 13" class="cls-4" width="2.585" height="19.228" transform="translate(53.231 72.214) rotate(-64.161)"/>
+    <rect id="Retângulo_14" data-name="Retângulo 14" class="cls-4" width="2.584" height="18.227" transform="matrix(0.858, -0.514, 0.514, 0.858, 69.747, 52.977)"/>
+    <rect id="Retângulo_15" data-name="Retângulo 15" class="cls-4" width="18.227" height="2.584" transform="matrix(0.514, -0.858, 0.858, 0.514, 114.935, 67.282)"/>
+    <rect id="Retângulo_16" data-name="Retângulo 16" class="cls-4" width="2.585" height="19.223" transform="translate(96.843 46)"/>
+    <rect id="Retângulo_17" data-name="Retângulo 17" class="cls-4" width="19.228" height="2.584" transform="translate(49.751 112.174) rotate(-14.16)"/>
+    <rect id="Retângulo_18" data-name="Retângulo 18" class="cls-4" width="2.584" height="19.228" transform="translate(127.244 109.977) rotate(-75.842)"/>
+    <path id="Caminho_9" data-name="Caminho 9" class="cls-4" d="M157.734,296.086H130.17v-2.172a22.63,22.63,0,0,0-4.8-13.729A23.468,23.468,0,0,1,143.018,242.4a23.47,23.47,0,0,1,19.56,37.731,22.531,22.531,0,0,0-4.844,13.782ZM132.751,293.5h22.4a25.142,25.142,0,0,1,5.374-14.944,20.885,20.885,0,0,0-17.408-33.574A20.885,20.885,0,0,0,127.41,278.6,25.284,25.284,0,0,1,132.751,293.5Z" transform="translate(-45.817 -170.314)"/>
+    <rect id="Retângulo_19" data-name="Retângulo 19" class="cls-4" width="2.585" height="25.931" transform="translate(89.482 99.14) rotate(-9.72)"/>
+    <rect id="Retângulo_20" data-name="Retângulo 20" class="cls-4" width="25.91" height="2.584" transform="translate(99.99 124.27) rotate(-80.569)"/>
+    <path id="Caminho_10" data-name="Caminho 10" class="cls-4" d="M130.963,263.764v-2.584c3.275,0,7.177-.265,7.177-1.526,0-.813-.5-1.526-1.058-1.526s-1.058.714-1.058,1.526h-2.586a3.669,3.669,0,1,1,7.286,0C140.724,263.065,136.822,263.764,130.963,263.764Z" transform="translate(-38.947 -161.686)"/>
+    <path id="Caminho_11" data-name="Caminho 11" class="cls-4" d="M142.219,263.764c-5.859,0-9.761-.7-9.761-4.111a3.669,3.669,0,1,1,7.286,0H137.16c0-.813-.5-1.526-1.058-1.526s-1.058.714-1.058,1.526c0,1.261,3.9,1.526,7.175,1.526Z" transform="translate(-37.967 -161.686)"/>
+    <path id="Caminho_12" data-name="Caminho 12" class="cls-4" d="M145.038,291.917h-14.87v-7.5h14.87Zm-12.286-2.583h9.7V287h-9.7Z" transform="translate(-39.468 -142.756)"/>
+    <path id="Caminho_13" data-name="Caminho 13" class="cls-4" d="M155.055,285.494H125.833v-8.918h29.221Zm-26.636-2.584H152.47v-3.75H128.419Z" transform="translate(-42.309 -147.899)"/>
+    <path id="Caminho_14" data-name="Caminho 14" class="cls-4" d="M153.414,289.638H126.543V280.4h26.871Zm-24.285-2.583h21.7v-4.069h-21.7Z" transform="translate(-41.844 -145.391)"/>
+  </g>
+  <rect id="Retângulo_114" data-name="Retângulo 114" class="cls-5" width="215" height="215"/>
+</svg>
